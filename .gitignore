@@ -1,3 +1,7 @@
+# --mxp-- Just in case there is TeX documentation here
+*.aux
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
