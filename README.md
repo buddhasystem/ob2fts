@@ -6,5 +6,8 @@ interface between the online buffer in the Single-Phase
 protoDUNE (CERN Experiment NP04) and one or a few instances
 of the Fermi-FTS system.
 
-Currently the buffer is being designed based on the xrootd system
+Currently the buffer is being designed based on the xrootd system.
+
+"Neut" cluster at CERN will be used for prototyping.
+
 
