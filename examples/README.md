@@ -1,3 +1,9 @@
-# This directory is for keeping various examples such as xrootd setup and configuration
+# Examples
+## Overview
+This directory contains snippets of code and configuration which are not intended for any practical applications but should only be used for trying things out. Security, scalability and other important issues are not addressed in the examples unless otherwise noted.
+
+## basic.cfg
+Demonstrates how one configuration file can be used for both cmsd and xrootd on the server machines as well as on the redirector. It relies on environment variables to be properly set, which is pretty obvious in the code.
+
 
 
