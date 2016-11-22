@@ -1,13 +1,7 @@
 # ob2fts: Online Buffer to FTS - the interface system
 ## Overview
 
-This projects aims to create a prototype for the
-interface between the online buffer in the Single-Phase
-protoDUNE (CERN Experiment NP04) and one or a few instances
-of the Fermi-FTS system.
-
-Currently the buffer is being designed based on the xrootd system.
-
-"Neut" cluster at CERN will be used for prototyping.
-
+This is a small repo for hosting bits of code related
+to data access in the protoDUNE experiment, im particular
+testing deployment of XRootD.
 
